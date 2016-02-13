@@ -1,4 +1,4 @@
-FROM            b.gcr.io/tensorflow/tensorflow-full:latest
+FROM            tensorflow/tensorflow:latest
 
 MAINTAINER      Alexander Tong <alexanderytong@gmail.com>
 
